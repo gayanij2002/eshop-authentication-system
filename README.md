@@ -20,6 +20,13 @@ This project is a user authentication system for an e-commerce platform. It incl
 * Database integration
 * Responsive user interface
 
+## Demo Video
+
+This video shows the full working of the E-Shop Authentication System including login, registration, and validation features.
+
+* https://youtu.be/eqh1qfFSMDg
+
+
 This project demonstrates my understanding of front-end and back-end web development, including form handling, validation, and database connectivity.
 
 Screenshot 1                                                                        
